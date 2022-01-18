@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A6AC41D-AD8F-3E2F-DB39-20A4CF41672D}") = "zachem", "Assembly-CSharp.csproj", "{618C42B4-6DFC-32FD-6B0C-14A1C528C415}"
+EndProject
+Project("{3A6AC41D-AD8F-3E2F-DB39-20A4CF41672D}") = "zachem", "Assembly-UnityScript-firstpass.unityproj", "{5C683E06-EC39-E7D0-8C96-1D5C18F51F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618C42B4-6DFC-32FD-6B0C-14A1C528C415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618C42B4-6DFC-32FD-6B0C-14A1C528C415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618C42B4-6DFC-32FD-6B0C-14A1C528C415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618C42B4-6DFC-32FD-6B0C-14A1C528C415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C683E06-EC39-E7D0-8C96-1D5C18F51F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C683E06-EC39-E7D0-8C96-1D5C18F51F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C683E06-EC39-E7D0-8C96-1D5C18F51F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C683E06-EC39-E7D0-8C96-1D5C18F51F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

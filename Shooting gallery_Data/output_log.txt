@@ -1,0 +1,73 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 30.0.14.7196]
+    Renderer: NVIDIA GeForce GTX 1650
+    Vendor:   NVIDIA
+    VRAM:     3962 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shine~\Desktop\diploma-projects\shooting-galery\Shooting gallery_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.758100 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564200 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.339000 ms (FindLiveObjects: 0.038800 ms CreateObjectMapping: 0.053400 ms MarkObjects: 0.147200 ms  DeleteObjects: 0.098600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388800 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.102000 ms (FindLiveObjects: 0.024900 ms CreateObjectMapping: 0.006400 ms MarkObjects: 0.061400 ms  DeleteObjects: 0.008600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.735000 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 596.
+Total: 0.409700 ms (FindLiveObjects: 0.079300 ms CreateObjectMapping: 0.009800 ms MarkObjects: 0.208100 ms  DeleteObjects: 0.111500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.398600 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 0.219500 ms (FindLiveObjects: 0.025200 ms CreateObjectMapping: 0.006600 ms MarkObjects: 0.067200 ms  DeleteObjects: 0.119700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.452700 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.134700 ms (FindLiveObjects: 0.021700 ms CreateObjectMapping: 0.005400 ms MarkObjects: 0.055200 ms  DeleteObjects: 0.051700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.240700 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 0.190200 ms (FindLiveObjects: 0.041400 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.114100 ms  DeleteObjects: 0.017700 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 218c -> priority: 1 
+  Thread -> id: 3744 -> priority: 1 
+  Thread -> id: 2e10 -> priority: 1 
